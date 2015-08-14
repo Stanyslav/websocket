@@ -1,5 +1,5 @@
 {
-    "name": "morozovsk/websocket",
+    "name": "Stanyslav/websocket",
     "description": "simple php websocket server with examples and demo: simple chat (single daemon) - http://sharoid.ru/chat.html , pro chat (master + worker) - http://sharoid.ru/chat2.html , simple game - http://sharoid.ru/game.html",
     "keywords": ["websocket", "server", "examle", "demo", "chat", "game", "socket_select", "event", "libevent", "yii", "laravel"],
     "require": {
@@ -14,7 +14,7 @@
         {"name": "simple game", "homepage": "http://sharoid.ru/game.html"}
     ],
     "support": {
-        "issues": "https://github.com/morozovsk/websocket/issues"
+        "issues": "https://github.com/Stanyslav/websocket/issues"
     },
     "autoload": {
         "classmap": [
